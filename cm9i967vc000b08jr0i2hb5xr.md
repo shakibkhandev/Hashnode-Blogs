@@ -3,6 +3,7 @@ title: "The Rise of AI Agents: Your Digital Sidekick for the Future"
 datePublished: Tue Apr 15 2025 08:40:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm9i967vc000b08jr0i2hb5xr
 slug: the-rise-of-ai-agents-your-digital-sidekick-for-the-future
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/gEpncIlZq7c/upload/e679804e5a5710fc57a1aef9e83f048b.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1744706394890/bda3aca0-5136-4dd2-9afa-0eaeca9fd3bb.jpeg
 tags: ai, technology, agentic-ai
 
