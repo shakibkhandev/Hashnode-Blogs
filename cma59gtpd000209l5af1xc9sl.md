@@ -47,7 +47,7 @@ pip install streamlit pdfplumber sentence-transformers faiss-cpu langchain
 
 Also you need GEMINI API KEY for this Project
 
-[Get it here](https://makersuite.google.com/app/apikey)
+[Get it here](https://aistudio.google.com/app/apikey)
 
 Also, use a short PDF—preferably 2 to 3 pages—if you only need to extract text, as larger files may take more time to process.
 
